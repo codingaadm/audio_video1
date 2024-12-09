@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736490103048",
+    "project_id": "audio-video-chat-ac46c",
+    "storage_bucket": "audio-video-chat-ac46c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736490103048:android:6636bd58bb02b0914c0cbd",
+        "android_client_info": {
+          "package_name": "com.example.audio_video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyXZfCbKbaivTaz2ywRiuGqe4v6SZK9JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
